@@ -1,0 +1,39 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.block
+{
+    color: white;
+    background-color: black;
+    align-content: center;
+    padding: 5%;
+}  
+
+.block-1
+{
+    background-color: #324376;
+}
+
+.block-2
+{
+    background-color: #586ba4;
+}
+
+.block-3
+{
+    background-color: #f76c5e;
+}
+
+nav
+{
+	margin-bottom : 5%;
+}
+
+.container-fluid.py-3{
+
+	margin-top : 5%;
+}
